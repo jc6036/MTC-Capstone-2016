@@ -1,0 +1,32 @@
+A bulleted list of TODOs for the project.
+
+First Set of Tasks
+
+    Get everyone set up with github
+    Make sure everyone can download and run the project
+
+Second
+
+    Write up a project layout
+    Design a GUI for the program as a mockup in VS or in a graphical editing program
+    Make sure everyone has a local version of SQL Server installed
+    Make sure everyone has the same SQL server (we're using the SQLEXPRESS version by microsoft.
+
+Third
+
+    Delegate pieces of the UI to the group members to create.
+    Begin writing code to form the main interactivity of the project
+    Write a class that is a structure for the data to be saved in
+    Write code to save to this class and read from it.
+    Write code that interfaces this class with our SQL server
+
+Fourth
+
+    Write code that sorts/searches through our data by the columns they're in (date, amount, etc)
+
+Fifth
+
+    Write code that attaches PDFs to the records
+    Write code that displays these PDFs
+    Write code that allows these PDFs to be printed
+    Write code that prints the data we store
