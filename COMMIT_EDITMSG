@@ -1,0 +1,58 @@
+Added the starting files.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   MTC-Capstone/MTC-Capstone.sln
+#	new file:   MTC-Capstone/MTC-Capstone.v12.suo
+#	new file:   MTC-Capstone/MTC-Capstone/App.config
+#	new file:   MTC-Capstone/MTC-Capstone/Form1.Designer.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Form1.cs
+#	new file:   MTC-Capstone/MTC-Capstone/MTC-Capstone.csproj
+#	new file:   MTC-Capstone/MTC-Capstone/Program.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/AssemblyInfo.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Resources.Designer.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Resources.resx
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Settings.Designer.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Settings.settings
+#	new file:   MTC-Capstone/MTC-Capstone/bin/Debug/MTC-Capstone.exe.config
+#	new file:   MTC-Capstone/MTC-Capstone/bin/Debug/MTC-Capstone.vshost.exe
+#	new file:   MTC-Capstone/MTC-Capstone/bin/Debug/MTC-Capstone.vshost.exe.config
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/MTC-Capstone.csproj.FileListAbsolute.txt
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   MTC-Capstone/MTC-Capstone.sln
+#	new file:   MTC-Capstone/MTC-Capstone.v12.suo
+#	new file:   MTC-Capstone/MTC-Capstone/App.config
+#	new file:   MTC-Capstone/MTC-Capstone/Form1.Designer.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Form1.cs
+#	new file:   MTC-Capstone/MTC-Capstone/MTC-Capstone.csproj
+#	new file:   MTC-Capstone/MTC-Capstone/Program.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/AssemblyInfo.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Resources.Designer.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Resources.resx
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Settings.Designer.cs
+#	new file:   MTC-Capstone/MTC-Capstone/Properties/Settings.settings
+#	new file:   MTC-Capstone/MTC-Capstone/bin/Debug/MTC-Capstone.exe.config
+#	new file:   MTC-Capstone/MTC-Capstone/bin/Debug/MTC-Capstone.vshost.exe
+#	new file:   MTC-Capstone/MTC-Capstone/bin/Debug/MTC-Capstone.vshost.exe.config
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/MTC-Capstone.csproj.FileListAbsolute.txt
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+#	new file:   MTC-Capstone/MTC-Capstone/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+#

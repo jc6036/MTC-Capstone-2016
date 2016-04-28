@@ -1,1 +1,2 @@
 C:\Users\Llebac\Documents\New folder\MTC-Capstone\MTC-Capstone\bin\Debug\MTC-Capstone.exe.config
+C:\Users\Llebac\Documents\MTC-Capstone-2016\MTC-Capstone\MTC-Capstone\bin\Debug\MTC-Capstone.exe.config
