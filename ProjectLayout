@@ -1,0 +1,16 @@
+
+Project Layout
+
+Here we will create and maintain the project layout. This layout is a list of technologies and plans, right down to the descriptions of methods in the code.
+
+Language: C#
+IDE: Visual Studio 2013
+Framework: Windows Forms
+Source Control: Github and Git
+Database: SQL, using Microsoft's SQLEXPRESS SQL Server Interface
+
+Specifications
+Here we will put code specifcations such as standards for naming variables.
+
+Code Documentation\
+Nothing here yet, but we will list classes and functions as they come up.
